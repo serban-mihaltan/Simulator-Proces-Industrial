@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+	
+  
+  <ItemGroup>
+    <Reference Include="Communicator">
+      <HintPath>..\..\PSII\Communicator\Communicator\obj\Debug\net7.0\ref\Communicator.dll</HintPath>
+    </Reference>
+    <Reference Include="DataModel">
+      <HintPath>..\DataModel\bin\Debug\net7.0\DataModel.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
