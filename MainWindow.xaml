@@ -1,0 +1,17 @@
+<Window x:Class="Monitor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Monitor" Height="300" Width="400">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+           
+            <DataGrid ItemsSource="{Binding Logs}" AutoGenerateColumns="False" Height="200" Margin="10">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Timp" Binding="{Binding Timestamp}" Width="*"/>
+                    <DataGridTextColumn Header="Stare" Binding="{Binding State}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </StackPanel>
+    </Grid>
+</Window>

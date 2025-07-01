@@ -1,0 +1,58 @@
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.csproj.AssemblyReference.cache
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor_MarkupCompile.cache
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.g.resources
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.AssemblyInfoInputs.cache
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.AssemblyInfo.cs
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Monitor.exe
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Monitor.deps.json
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Monitor.runtimeconfig.json
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Monitor.dll
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Monitor.pdb
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Communicator.dll
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\DataModel.dll
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\DataModel.pdb
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Communicator.pdb
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.csproj.CopyComplete
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.dll
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\refint\Monitor.dll
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.pdb
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.genruntimeconfig.cache
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\obj\Debug\net7.0-windows\ref\Monitor.dll
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Polly.dll
+C:\Users\Frost\Desktop\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Polly.Core.dll
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Monitor.exe
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Monitor.deps.json
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Monitor.runtimeconfig.json
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Monitor.dll
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Monitor.pdb
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Polly.dll
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Polly.Core.dll
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Communicator.dll
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\DataModel.dll
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\DataModel.pdb
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\bin\Debug\net7.0-windows\Communicator.pdb
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.csproj.AssemblyReference.cache
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor_MarkupCompile.cache
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.g.resources
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.AssemblyInfoInputs.cache
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.AssemblyInfo.cs
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.csproj.CopyComplete
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.dll
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\refint\Monitor.dll
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.pdb
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\Monitor.genruntimeconfig.cache
+C:\Users\Frost\Desktop\PSII bag pla in git\PSII Iercan\Monitor\obj\Debug\net7.0-windows\ref\Monitor.dll
