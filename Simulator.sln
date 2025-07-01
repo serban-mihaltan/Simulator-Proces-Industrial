@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simulator", "Simulator.csproj", "{649E721F-53B5-401D-9F16-425AA42D2A0B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModel", "..\DataModel\DataModel.csproj", "{DC46694B-693C-4639-9E28-78F1BB695507}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Communicator", "..\Communicator\Communicator.csproj", "{34B74933-C156-4C6F-B18D-2C338DD9A74E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{649E721F-53B5-401D-9F16-425AA42D2A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649E721F-53B5-401D-9F16-425AA42D2A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649E721F-53B5-401D-9F16-425AA42D2A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649E721F-53B5-401D-9F16-425AA42D2A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC46694B-693C-4639-9E28-78F1BB695507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC46694B-693C-4639-9E28-78F1BB695507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC46694B-693C-4639-9E28-78F1BB695507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC46694B-693C-4639-9E28-78F1BB695507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34B74933-C156-4C6F-B18D-2C338DD9A74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B74933-C156-4C6F-B18D-2C338DD9A74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B74933-C156-4C6F-B18D-2C338DD9A74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B74933-C156-4C6F-B18D-2C338DD9A74E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838085F1-713D-4DBB-99D9-9DE22EE2A3D2}
+	EndGlobalSection
+EndGlobal
